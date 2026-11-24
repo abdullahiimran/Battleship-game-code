@@ -1,0 +1,3 @@
+﻿  FINAL-GAME.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\Users\l260800\source\repos\Project1\x64\Debug\Project1.exe
